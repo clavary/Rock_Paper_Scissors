@@ -1,0 +1,30 @@
+body {
+  background-color: #F2F2F2;
+}
+h1 {
+  color: #8758FF;
+  font-size: 4rem;
+  font-family: inherit;
+}
+h2 {
+  font-size: 3rem;
+  color: #5CB8E4;
+  font-family: cursive;
+}
+img {
+  width: 70%;
+}
+p {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.container {
+  text-align: center;
+  margin: auto;
+  width: 60%;
+}
+.play {
+  text-align: center;
+  display: inline-block;
+}
